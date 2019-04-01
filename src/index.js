@@ -5,6 +5,8 @@ import fastclick from 'fastclick'
 import eruda from 'eruda'
 import routes from '@/routes'
 
+import './index.less'
+
 // 移动端console
 // eruda.init()
 
